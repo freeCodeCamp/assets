@@ -1,7 +1,11 @@
 Welcome to [Free Code Camp's](http://freecodecamp.com) Asset Repository
 =========
 
-This is where we store all of Free Code Camp's logos and other assets.
+This is where we store all of the design assets for Free Code Camp's open source community.
+
+We welcome contributions from designers! Take a look at [our open issues](https://github.com/FreeCodeCamp/assets/issues). All contributions will remain Creative Commons licensed. 
+
+You can also ask [@hallaathrad in Gitter](https://gitter.im/Hallaathrad) if you have any questions about contributing designs to Free Code Camp's open source community.
 
 Please feel free to use these assets to promote Free Code Camp or your city's campsite. 
 
