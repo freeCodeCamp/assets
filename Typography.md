@@ -4,4 +4,4 @@
 
 ## Fonts Used
 * Logo: SaxMono http://www.dafont.com/saxmono.font
-* Other: Monaco https://github.com/todylu/monaco.ttf
+* Other: Lato https://fonts.google.com/specimen/Lato
